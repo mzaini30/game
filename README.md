@@ -2,5 +2,5 @@
 game list
 1.tic tac toe
 2.snake
-#enjot trus 
+#enjoy trus 
 No game no life :v
